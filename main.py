@@ -10,7 +10,7 @@ from aiogram.types import Message, CallbackQuery
 
 
 API_TOKEN = '7516642839:AAGdJf-My3DAvOt9Ab_mcoKDou6w-ERpWIg'
-SUPPORT_CHAT_ID = '-1002156815427'
+SUPPORT_CHAT_ID = '-4552814838'
 
 logging.basicConfig(level=logging.INFO)
 
